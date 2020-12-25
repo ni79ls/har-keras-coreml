@@ -6,3 +6,5 @@ Keras and Apple's CoreML are a very powerful toolset if you want to quickly depl
 To be more specific, we will train a deep neural network (DNN) to recognize the type of movement (Walking, Running, Jogging, etc.) based on a given set of accelerometer data from a mobile device carried around a person's waist. 
 
 We will use the WISDM data set (Activity Prediction) for this tutorial: http://www.cis.fordham.edu/wisdm/dataset.php
+
+The original Medium article can be found here: https://towardsdatascience.com/human-activity-recognition-har-tutorial-with-keras-and-core-ml-part-1-8c05e365dfa0
